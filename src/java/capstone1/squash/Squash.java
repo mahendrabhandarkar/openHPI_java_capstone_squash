@@ -4,7 +4,7 @@ public class Squash {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Controller controller = new Controller();
+		Bound controller = new Bound();
 		
 		Ball ball = new Ball();
 		Paddle paddle = new Paddle();
